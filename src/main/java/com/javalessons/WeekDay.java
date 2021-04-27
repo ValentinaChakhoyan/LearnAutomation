@@ -34,6 +34,8 @@ public class WeekDay {
                 System.out.println("Sunday");
                 break;
             }
+            default: System.out.println("Select a weekday");
+
         }
         }
     }
